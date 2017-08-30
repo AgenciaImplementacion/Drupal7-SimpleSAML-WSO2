@@ -50,3 +50,17 @@ Agregar coherentemente:
 ```
 
 
+Instalar en drupal https://www.drupal.org/project/simplesamlphp_auth
+
+
+
+# Referencias
+- https://docs.wso2.com/display/IS500/SAML2+IdP+with+SimpleSAMLphp+Service+Provider
+- https://docs.wso2.com/display/IS530/Configuring+SimpleSAMLphp+as+a+Service+Provider
+- http://www.securityinternal.com/2015/05/setting-up-wso2-identity-server-as.html
+- https://stackoverflow.com/questions/25428609/how-can-i-change-the-identity-as-an-idp-of-the-wso2-is
+- https://www.drupal.org/node/157632
+- http://wso2.com/library/articles/2014/10/wso2-identity-server-single-sign-on-with-drupal/
+- https://pulasthiharasgama.wordpress.com/2015/11/26/integrating-drupal-with-wso2-identity-server/
+- https://pulasthiharasgama.wordpress.com/tag/single-sign-on/
+- https://stackoverflow.com/questions/21727087/wso2-identity-server-error-when-processing-request
