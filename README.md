@@ -52,7 +52,10 @@ Agregar coherentemente:
 
 Instalar en drupal https://www.drupal.org/project/simplesamlphp_auth
 
-
+# Referencias comentadas
+- Proxy reverse para wso2 con nginx https://docs.wso2.com/display/Carbon430/Adding+a+Custom+Proxy+Path
+- Buenas prácticas en WSO2 AM https://wso2.com/library/articles/2017/03/api-management-best-practices-with-wso2-api-manager/
+- Personalizar página de logueo autenticación https://docs.wso2.com/display/IS530/Customizing+Login+Pages+for+Service+Providers
 
 # Referencias
 - https://docs.wso2.com/display/IS500/SAML2+IdP+with+SimpleSAMLphp+Service+Provider
